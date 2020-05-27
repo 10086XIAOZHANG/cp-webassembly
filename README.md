@@ -15,7 +15,7 @@ source ./emsdk_env.sh
 ## Usage
 
 ```bash
-git clone https://github.com/detectiveHLH/cp-webassembly
+git clone https://github.com/10086XIAOZHANG/cp-webassembly.git
 cd cp-webassembly
 yarn install
 yarn start
